@@ -18,6 +18,8 @@ I'm kind of shy, so the most of my challenging projects are private, but I reall
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsraelFBotelho&show_icons=true&theme=radical" />
 </a>
+<br/>
+<br/>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelFBotelho&layout=compact&theme=radical" />
 </a>
