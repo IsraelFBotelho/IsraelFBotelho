@@ -1,4 +1,4 @@
-### Hi there, my names's Israel 👋
+### Hi there, my name's Israel 👋
 
 I'm a computer science studend trying learn how my brain works and next to it trying to find what calls my attention the most in my computer related to coding.
 
