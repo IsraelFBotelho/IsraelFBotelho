@@ -16,7 +16,7 @@ I'm kind of shy, so the most of my challenging projects are private, but I reall
 ### Here some stats of my git 😎
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsraelFBotelho&show_icons=true&theme=radical" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsraelFBotelho&show_icons=true&theme=radical" /> -->
 </a>
 <br/>
 <a>
